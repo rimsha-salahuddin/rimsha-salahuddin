@@ -5,7 +5,7 @@
 - 🔭 I’m currently working as Data Analyst at [Technocolabs Softwares](https://www.linkedin.com/company/technocolabs/)
 - 🌱 I’m currently learning AWS Cloud.
 - 💬 Ask me about anything.
-- 📫 Reach me at: [srimsha177@gmail.com](mailto:srimsha177@gmail.com?subject=[GitHub])
+- 📫 Reach me at: [srimsha177@gmail.com](mailto:srimsha177@gmail.com?subject=GitHub)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
