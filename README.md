@@ -10,9 +10,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/rimsha_177" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rimsha_177" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/rimsha-salahuddin-635000218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/rimsha-salahuddin-635000218" height="30" width="40" /></a>
-<a href="https://discord.gg/1093" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1093" height="30" width="40" /></a>
+<a href="htt<p align="left">
+<a href="https://www.linkedin.com/in/rimsha-salahuddin-635000218/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rimsha Salahuddin" height="30" width="40" /></a>
+<a href="https://twitter.com/srimsha__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="10debamitr" height="30" width="40" /></a>
 </p>  
 
 <h3 align="left">Languages and Tools:</h3>
