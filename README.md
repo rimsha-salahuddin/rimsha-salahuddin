@@ -1,5 +1,4 @@
-<h1 align="left">Hi there, I'm Rimsha Salahuddin <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px"> </h1>
-
+<h1 align="left">Hi there, I'm Rimsha Salahuddin <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="40" width="40" />
 <h3 align="left">Currently pursuing B.tech in Computer Science from Amity University, Lucknow </h3>
 
 ### More about me:
