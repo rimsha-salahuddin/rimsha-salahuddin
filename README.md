@@ -2,7 +2,7 @@
 <h3 align="left">Currently pursuing B.tech in Computer Science from Amity University, Lucknow </h3>
 
 ### More about me:
-- 🔭 I’m currently working as Data Analyst at [Technocolabs Softwares](https://www.linkedin.com/company/technocolabs/)
+- 🔭 I’m currently working as Intern at [Johnson Controls](https://www.linkedin.com/company/johnson-controls/mycompany/verification/)
 - 🌱 I’m currently learning AWS Cloud.
 - 💬 Ask me about anything.
 - 📫 Reach me at: [srimsha177@gmail.com](mailto:srimsha177@gmail.com?subject=GitHub)
