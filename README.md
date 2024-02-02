@@ -1,8 +1,8 @@
 <h1 align="left">Hi there, I'm Rimsha Salahuddin <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="40" width="40" />
-<h3 align="left">Currently pursuing B.tech in Computer Science from Amity University, Lucknow </h3>
+<h3 align="left">Completed my B.tech in Computer Science from Amity University, Lucknow </h3>
 
 ### More about me:
-- 🔭 I’m currently working as Intern at [Johnson Controls](https://www.linkedin.com/company/johnson-controls/mycompany/verification/)
+- 🔭 I’m currently working as Graduate Engineer at [Johnson Controls](https://www.linkedin.com/company/johnson-controls/mycompany/verification/)
 - 🌱 I’m currently learning Flutter.
 - 💬 Ask me about anything.
 - 📫 Reach me at: [srimsha177@gmail.com](mailto:srimsha177@gmail.com?subject=GitHub)
@@ -25,5 +25,3 @@
 
 [![Github](https://img.shields.io/github/followers/rimsha-salahuddin?label=Follow&style=socail)](https://github.com/rimsha-salahuddin) ![](https://visitor-badge.laobi.icu/badge?page_id=rimsha-salahuddin.rimsha-salahuddin)
 
-<h3 align="left">Activity Graph:</h3>
-<a href="https://github.com/rimsha-salahuddin/github-readme-activity-graph"><img alt="Rimsha Salahuddin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rimsha-salahuddin&bg_color=FFFFFF&color=2732e9&line=2732e9&point=f73030&hide_border=true" /></a>
