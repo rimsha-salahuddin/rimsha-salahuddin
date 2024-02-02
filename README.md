@@ -3,7 +3,7 @@
 
 ### More about me:
 - 🔭 I’m currently working as Graduate Engineer at [Johnson Controls](https://www.linkedin.com/company/johnson-controls/mycompany/verification/)
-- 🌱 I’m currently learning Flutter.
+- 🌱 I’m currently learning WPF in C#.
 - 💬 Ask me about anything.
 - 📫 Reach me at: [srimsha177@gmail.com](mailto:srimsha177@gmail.com?subject=GitHub)
 
