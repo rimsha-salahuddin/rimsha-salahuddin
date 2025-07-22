@@ -2,8 +2,8 @@
 <h3 align="left">Completed my B.tech in Computer Science from Amity University, Lucknow </h3>
 
 ### More about me:
-- 🔭 I’m currently working as Graduate Engineer at [Johnson Controls](https://www.linkedin.com/company/johnson-controls/mycompany/verification/)
-- 🌱 I’m currently learning WPF in C#.
+- 🔭 I’m currently working as Software Engineer at [Johnson Controls](https://www.linkedin.com/company/johnson-controls/mycompany/verification/)
+- 🌱 I’m currently learning API integration for backend development.
 - 💬 Ask me about anything.
 - 📫 Reach me at: [srimsha177@gmail.com](mailto:srimsha177@gmail.com?subject=GitHub)
 
