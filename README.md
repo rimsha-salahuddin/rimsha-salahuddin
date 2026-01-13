@@ -1,5 +1,11 @@
 <h1 align="left">Hi there, I'm Rimsha Salahuddin <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="40" width="40" />
-<h3 align="left">Completed my B.tech in Computer Science from Amity University, Lucknow </h3>
+<h3 align="left">I’m a Software Engineer with 2+ years of experience, holding a B.Tech in Computer Science with Honors specialisation in Data Science & Analytics from Amity University, Lucknow.
+
+At Johnson Controls, I contribute to the development of secure, scalable, and intelligent software solutions within the Access Control and Video Solutions (ACVS) domain. As part of the One Security Platform (OSP) Server team, I help build and maintain the core infrastructure that powers access control systems for buildings—supporting centralized management, real-time monitoring, and seamless integration with broader security ecosystems.
+
+I’m passionate about data-driven software development, where I can bridge the gap between analytics, AI, and engineering. Whether it’s crafting efficient back-end systems, designing predictive models, or developing interactive dashboards, I’m always eager to build and innovate.
+
+Open to discussions on data science, software development, analytics, and opportunities for growth in this dynamic field. </h3>
 
 ### More about me:
 - 🔭 I’m currently working as Software Engineer at [Johnson Controls](https://www.linkedin.com/company/johnson-controls/mycompany/verification/)
