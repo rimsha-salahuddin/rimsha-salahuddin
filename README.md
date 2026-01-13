@@ -13,7 +13,7 @@
 
 <p align="left">
 
-<!-- Languages -->
+<-- Languages -->
 <a href="https://www.python.org/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
 </a>
@@ -99,10 +99,4 @@
 </a>
 
 </p>
-
-<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=rimsha-salahuddin&show_icons=true&theme=material-palenight" alt="My github stats" />
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rimsha-salahuddin&theme=tokyonight)
-
-<h3 align="left">Views:</h3>
 
