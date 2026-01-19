@@ -1,5 +1,5 @@
 <h1 align="left">Hi there, I'm Rimsha Salahuddin <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="40" width="40" />
-<h3 align="left">Software Engineer with 3+ years of experience, holding a B.Tech in Computer Science with Honors specialisation in Data Science & Analytics from Amity University, Lucknow.</h3>
+<h3 align="left">Software Engineer with 2+ years of experience, holding a B.Tech in Computer Science with Honors specialisation in Data Science & Analytics from Amity University, Lucknow.</h3>
 
 ### More about me:
 - 🔭 I’m currently working as Software Engineer at [Johnson Controls](https://www.linkedin.com/company/johnson-controls/mycompany/verification/)
