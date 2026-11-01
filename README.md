@@ -1,8 +1,8 @@
-<h1 align="left">Hi there, I'm Rimsha Salahuddin <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="40" width="40" />
+<h1 align="left">Hi there, I'm Rimsha Salahuddin <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="40" width="40" /></h1>
 <h3 align="left">Software Engineer with 3.5+ years of experience, holding a B.Tech in Computer Science with Honors specialisation in Data Science & Analytics from Amity University, Lucknow.</h3>
 
 ### More about me:
-- 🔭 I’m currently working as Software Engineer at [Johnson Controls](https://www.linkedin.com/company/johnson-controls/mycompany/verification/)
+- 🔭 I’m currently working as a Full Stack Developer at [Samsung SDS](https://www.samsungsds.com/) (via Intelliswift – An LTTS Company), building the middleware portal for an enterprise Logistics Automation platform (OCR + Middleware + RPA)
 - 🌱 Passionate about data-driven software development, where I can bridge the gap between analytics, AI, and engineering. Whether it’s crafting efficient back-end systems, designing predictive models, or developing interactive dashboards, I’m always eager to build and innovate.
 - 💬 Open to discussions on data science, software development, analytics, and opportunities for growth in this dynamic field..
 - 📫 Reach me at: [srimsha177@gmail.com](mailto:srimsha177@gmail.com?subject=GitHub)
@@ -99,4 +99,3 @@
 </a>
 
 </p>
-
